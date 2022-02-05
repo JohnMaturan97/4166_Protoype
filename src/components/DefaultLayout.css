@@ -1,0 +1,36 @@
+.topnav {
+  background-color: rgb(46, 11, 128);
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1.25rem;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.topnav a:hover {
+  background-color: rgb(255, 74, 74);
+  color: black;
+}
+
+.topnav a.active {
+  float: left;
+  color: white;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+footer{
+  justify-content: center;
+  position: relative;
+  background-color: rgb(46, 11, 128);
+  margin-top: 33%;
+  padding: 2rem;
+}
+ h2 {
+    color: white;
+  }
